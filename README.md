@@ -23,5 +23,7 @@
 
 詳細資料報告可參閱"需求評估AI專題簡報檔"
 
+資料來源:https://www.kaggle.com/datasets/felixzhao/productdemandforecasting
+
 
    
