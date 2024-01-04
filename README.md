@@ -1,0 +1,2 @@
+# Product_demand_forecast
+利用機器學習方法預測產品的需求量
